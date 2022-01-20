@@ -94,7 +94,8 @@ padding: 50px 0 20px;
 
 }
 .women-img{
-  width:10%;
+  width:7%;
+  position:absolute;
 }
 .btn {
   background: #11cdd4;
